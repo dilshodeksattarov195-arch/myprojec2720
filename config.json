@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerdync",
+        "uuid": 5799040,
+        "checksum": "vn0iwb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
